@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/heart/Myfiles/NX/iOS/Build/Products/Debug-iphoneos/NXFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NXFramework-Swift.h",
+          'external-contents': "/Users/heart/Myfiles/NX/iOS/Build/Products/Debug-iphoneos/NXFramework.framework/Headers/NXFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "NXFramework.h",
+          'external-contents': "/Users/heart/Myfiles/NX/iOS/NXFramework/NXFramework/NXFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/heart/Myfiles/NX/iOS/Build/Products/Debug-iphoneos/NXFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/heart/Myfiles/NX/iOS/Build/Intermediates/NXFramework.build/Debug-iphoneos/NXFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

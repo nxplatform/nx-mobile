@@ -1,0 +1,12 @@
+<view>
+	<view id="view">
+        <view id="view1_1">
+            <ImageView id="view2_1">
+                
+            </ImageView>
+        </view>
+        <TextView id="view1_2">
+            
+        </TextView>
+	</view>
+</view>

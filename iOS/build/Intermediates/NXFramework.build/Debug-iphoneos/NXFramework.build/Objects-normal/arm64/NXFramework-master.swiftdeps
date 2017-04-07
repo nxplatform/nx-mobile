@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a60ab9b6e76756aaff03dedc54052a52"
+build_time: [539680529, 164078000]
+inputs:
+  "/Users/heart/Myfiles/NX/iOS/NXFramework/NXFramework/Bridge.swift": [539680528, 0]
