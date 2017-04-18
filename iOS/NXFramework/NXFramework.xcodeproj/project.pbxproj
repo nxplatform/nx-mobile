@@ -35,6 +35,7 @@
 		3E043C871E4A135E0036E942 /* NXFactory.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 3E043C851E4A135E0036E942 /* NXFactory.hpp */; };
 		3E043C8A1E4A173C0036E942 /* Pool.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E043C891E4A173C0036E942 /* Pool.h */; };
 		3E043C8C1E4A17670036E942 /* Pool.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E043C8B1E4A17670036E942 /* Pool.cpp */; };
+		3E36A1391E9A8640001A40C9 /* NXProvidor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E36A1381E9A8640001A40C9 /* NXProvidor.swift */; };
 		3E4CE0E81E56EEA5005A2751 /* Vector.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 3E4CE0E61E56EEA5005A2751 /* Vector.hpp */; };
 		3E4E26FA1E4ACC60000A1437 /* Window.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E4E26F81E4ACC60000A1437 /* Window.cpp */; };
 		3E4E26FB1E4ACC60000A1437 /* Window.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 3E4E26F91E4ACC60000A1437 /* Window.hpp */; };
@@ -42,6 +43,8 @@
 		3E4E26FF1E4ACC7D000A1437 /* View.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 3E4E26FD1E4ACC7D000A1437 /* View.hpp */; };
 		3E4E27061E4ACF35000A1437 /* NXBridge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E4E27041E4ACF35000A1437 /* NXBridge.cpp */; };
 		3E4E27071E4ACF35000A1437 /* NXBridge.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 3E4E27051E4ACF35000A1437 /* NXBridge.hpp */; };
+		3EAD7F661EA367FB0022EA4F /* IOCContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAD7F651EA367FB0022EA4F /* IOCContainer.swift */; };
+		3EAD7F681EA368660022EA4F /* Mapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAD7F671EA368660022EA4F /* Mapper.swift */; };
 		3EB051481E94E21C0063EEF3 /* NXObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EB051471E94E21C0063EEF3 /* NXObject.swift */; };
 		3EB0514A1E94E72B0063EEF3 /* NXView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EB051491E94E72B0063EEF3 /* NXView.swift */; };
 		3EB0514C1E97589E0063EEF3 /* NXTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EB0514B1E97589E0063EEF3 /* NXTextView.swift */; };
@@ -81,6 +84,7 @@
 		3E043C851E4A135E0036E942 /* NXFactory.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = NXFactory.hpp; path = ../../cpp/binder/NXFactory.hpp; sourceTree = "<group>"; };
 		3E043C891E4A173C0036E942 /* Pool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pool.h; sourceTree = "<group>"; };
 		3E043C8B1E4A17670036E942 /* Pool.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Pool.cpp; sourceTree = "<group>"; };
+		3E36A1381E9A8640001A40C9 /* NXProvidor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NXProvidor.swift; sourceTree = "<group>"; };
 		3E4CE0E61E56EEA5005A2751 /* Vector.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = Vector.hpp; path = ../../cpp/core/Vector.hpp; sourceTree = "<group>"; };
 		3E4E26F81E4ACC60000A1437 /* Window.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Window.cpp; path = ../../cpp/views/Window.cpp; sourceTree = "<group>"; };
 		3E4E26F91E4ACC60000A1437 /* Window.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = Window.hpp; path = ../../cpp/views/Window.hpp; sourceTree = "<group>"; };
@@ -88,6 +92,8 @@
 		3E4E26FD1E4ACC7D000A1437 /* View.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = View.hpp; path = ../../cpp/views/View.hpp; sourceTree = "<group>"; };
 		3E4E27041E4ACF35000A1437 /* NXBridge.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = NXBridge.cpp; path = ../../cpp/bridge/NXBridge.cpp; sourceTree = "<group>"; };
 		3E4E27051E4ACF35000A1437 /* NXBridge.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = NXBridge.hpp; path = ../../cpp/bridge/NXBridge.hpp; sourceTree = "<group>"; };
+		3EAD7F651EA367FB0022EA4F /* IOCContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IOCContainer.swift; sourceTree = "<group>"; };
+		3EAD7F671EA368660022EA4F /* Mapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mapper.swift; sourceTree = "<group>"; };
 		3EB051471E94E21C0063EEF3 /* NXObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NXObject.swift; sourceTree = "<group>"; };
 		3EB051491E94E72B0063EEF3 /* NXView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NXView.swift; sourceTree = "<group>"; };
 		3EB0514B1E97589E0063EEF3 /* NXTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NXTextView.swift; sourceTree = "<group>"; };
@@ -129,6 +135,7 @@
 		3E043BF51E484F2F0036E942 /* NXFramework */ = {
 			isa = PBXGroup;
 			children = (
+				3EAD7F641EA367D80022EA4F /* ioc */,
 				3E043C501E49C2580036E942 /* Packet.swift */,
 				3E043BF61E484F2F0036E942 /* NXFramework.h */,
 				3E043BF71E484F2F0036E942 /* Info.plist */,
@@ -220,6 +227,16 @@
 				3E4E27051E4ACF35000A1437 /* NXBridge.hpp */,
 			);
 			name = bridge;
+			sourceTree = "<group>";
+		};
+		3EAD7F641EA367D80022EA4F /* ioc */ = {
+			isa = PBXGroup;
+			children = (
+				3E36A1381E9A8640001A40C9 /* NXProvidor.swift */,
+				3EAD7F651EA367FB0022EA4F /* IOCContainer.swift */,
+				3EAD7F671EA368660022EA4F /* Mapper.swift */,
+			);
+			name = ioc;
 			sourceTree = "<group>";
 		};
 		3EB0514F1E975E0F0063EEF3 /* Frameworks */ = {
@@ -333,10 +350,13 @@
 				3E4E26FA1E4ACC60000A1437 /* Window.cpp in Sources */,
 				3E043C7C1E4A11890036E942 /* Dictionary.cpp in Sources */,
 				3E043C821E4A11890036E942 /* Object.cpp in Sources */,
+				3EAD7F681EA368660022EA4F /* Mapper.swift in Sources */,
+				3E36A1391E9A8640001A40C9 /* NXProvidor.swift in Sources */,
 				3E043C641E49DEBA0036E942 /* NXApplication.cpp in Sources */,
 				3EB0514A1E94E72B0063EEF3 /* NXView.swift in Sources */,
 				3E043C861E4A135E0036E942 /* NXFactory.cpp in Sources */,
 				3E043C601E49D4F00036E942 /* NXPacket.cpp in Sources */,
+				3EAD7F661EA367FB0022EA4F /* IOCContainer.swift in Sources */,
 				3E043C801E4A11890036E942 /* NXString.cpp in Sources */,
 				3EB0514C1E97589E0063EEF3 /* NXTextView.swift in Sources */,
 				3EB051481E94E21C0063EEF3 /* NXObject.swift in Sources */,

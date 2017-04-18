@@ -20,6 +20,10 @@ public class NX{
         callback()
     }
     
+    public func registerProvidor(){
+        
+    }
+    
     public func create(_ elementName:String )->NXObject?{
         
         var v:NXObject?
